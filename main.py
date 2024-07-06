@@ -4,7 +4,6 @@ from circulo import Circulo
 from cone import Cone
 
 def main():
-    # Criando instâncias de Ponto
     p1 = Ponto(0, 0)
     p2 = Ponto(3, 4)
     p3 = Ponto(1, 1)

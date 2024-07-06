@@ -30,8 +30,6 @@ class Ponto:
 
     def __repr__(self):
         """
-        Representação da instância da classe Ponto.
-
         Retorna
         str
             Representação da instância.
