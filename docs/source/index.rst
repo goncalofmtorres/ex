@@ -1,4 +1,4 @@
-.. gestao_geometrica documentation master file, created by
+.. ex documentation master file, created by
    sphinx-quickstart on Thu Jul  1 00:00:00 2021.
    You can adapt this file completely to your liking, but it should at least
    contain the root `toctree` directive.
